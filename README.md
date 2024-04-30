@@ -10,6 +10,11 @@ semantic alignment. Finally, an attention-based full-body optimizer
 refines the motion generation results and guarantees the overall -->
 
 # LGTM: Local-to-Global Text-Driven Human Motion Diffusion Model
+
+没找到require.txt
+
+暂时没有openai api
+
 This repository contains the code and data for the paper "LGTM: Local-to-Global Text-Driven Human Motion Diffusion Model" (SIGGRAPH 2024).
 
 
